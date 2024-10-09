@@ -1,0 +1,14 @@
+C:\Users\aylen_bdmy8q4\source\repos\Ecommerce\Model\bin\Debug\net8.0\Model.deps.json
+C:\Users\aylen_bdmy8q4\source\repos\Ecommerce\Model\bin\Debug\net8.0\Model.runtimeconfig.json
+C:\Users\aylen_bdmy8q4\source\repos\Ecommerce\Model\bin\Debug\net8.0\Model.dll
+C:\Users\aylen_bdmy8q4\source\repos\Ecommerce\Model\bin\Debug\net8.0\Model.pdb
+C:\Users\aylen_bdmy8q4\source\repos\Ecommerce\Model\obj\Debug\net8.0\Model.csproj.AssemblyReference.cache
+C:\Users\aylen_bdmy8q4\source\repos\Ecommerce\Model\obj\Debug\net8.0\Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aylen_bdmy8q4\source\repos\Ecommerce\Model\obj\Debug\net8.0\Model.AssemblyInfoInputs.cache
+C:\Users\aylen_bdmy8q4\source\repos\Ecommerce\Model\obj\Debug\net8.0\Model.AssemblyInfo.cs
+C:\Users\aylen_bdmy8q4\source\repos\Ecommerce\Model\obj\Debug\net8.0\Model.csproj.CoreCompileInputs.cache
+C:\Users\aylen_bdmy8q4\source\repos\Ecommerce\Model\obj\Debug\net8.0\Model.dll
+C:\Users\aylen_bdmy8q4\source\repos\Ecommerce\Model\obj\Debug\net8.0\refint\Model.dll
+C:\Users\aylen_bdmy8q4\source\repos\Ecommerce\Model\obj\Debug\net8.0\Model.pdb
+C:\Users\aylen_bdmy8q4\source\repos\Ecommerce\Model\obj\Debug\net8.0\Model.genruntimeconfig.cache
+C:\Users\aylen_bdmy8q4\source\repos\Ecommerce\Model\obj\Debug\net8.0\ref\Model.dll
